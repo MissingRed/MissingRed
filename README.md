@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola! 👋
+  Hola! soy Daniel👋
 </h1>
 <p align="center"><img src="./trex.gif"/></p>
 <h2>📈 Estadísticas de GitHub </h2>
