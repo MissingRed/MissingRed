@@ -2,7 +2,7 @@
   Hola! 👋
 </h1>
 <p align="center"><img src="./trex.gif"/></p>
-<h1>📈 Estadísticas de GitHub </h1>
+<h2>📈 Estadísticas de GitHub </h2>
 
 |||
 |---|---|
