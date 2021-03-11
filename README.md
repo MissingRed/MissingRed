@@ -2,6 +2,6 @@
   Hola! 👋
 </h1>
 <p align="center">
-  <img width="460" height="300" src="https://repository-images.githubusercontent.com/346754927/a57c8200-825a-11eb-8d2e-56e48e7250f0">
+  <img width="460" height="300" src="https://repository-images.githubusercontent.com/346754927/e6c26100-825d-11eb-9a61-5629ae0fae16">
 </p>
 
