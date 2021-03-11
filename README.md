@@ -9,4 +9,4 @@
 |![lintang github stat](https://github-readme-stats.vercel.app/api?username=MissingRed&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=MissingRed&layout=compact&hide_border=true&theme=vue)| 
 
 <h2>🔧 Tecnologías y herramientas</h2>
-<img src="https://img.shields.io/github/followers/MissingRed?style=social"/>
+<img src="https://img.shields.io/badge/OS-Windows-green"/>
