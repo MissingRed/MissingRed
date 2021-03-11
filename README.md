@@ -2,6 +2,6 @@
   Hola! 👋
 </h1>
 <p align="center">
-  <img src="https://octodex.github.com/images/labtocat.png">
+  <img width="70%" src="https://octodex.github.com/images/labtocat.png">
 </p>
 
