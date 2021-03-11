@@ -10,3 +10,6 @@
 
 <h2>🔧 Tecnologías y herramientas</h2>
 <img src="https://img.shields.io/badge/OS-Windows-green"/>
+<img src="https://img.shields.io/badge/Editor-VScode-green"/>
+
+
