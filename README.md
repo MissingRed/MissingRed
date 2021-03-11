@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola! 👋<img src="./wave.gif"/>
+  Hola! 👋<img width="100px" src="./wave.gif"/>
 </h1>
 <p align="center"><img src="./trex.gif"/></p>
 
