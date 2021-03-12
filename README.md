@@ -1,7 +1,8 @@
 <h1 align="center">
   Hola! soy Daniel👋
 </h1>
-<p>Mi nombre es Daniel Rodriguez y soy un desarrollador / tecnólogo en sistemas. Soy de Colombia, vivo en Cali y actualmente Estudio Ingeniería de Sistemas. Puedes encontrarme en [![Twitter][1.2]][1] o LinkedIn.</p>
+Mi nombre es Daniel Rodriguez y soy un desarrollador / tecnólogo en sistemas. Soy de Colombia, vivo en Cali y actualmente Estudio Ingeniería de Sistemas. Puedes encontrarme en [![Twitter][1.2]][1] o LinkedIn.
+
 <p align="center"><img src="./trex.gif"/></p>
 <h2>📈 Estadísticas de GitHub </h2>
 
