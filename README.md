@@ -5,7 +5,7 @@
 Mi nombre es Daniel Rodriguez y soy un desarrollador / tecnólogo en sistemas. Soy de Cali, Colombia y actualmente Estudio Ingeniería de Sistemas. Puedes encontrarme en 
 [![Twitter][1.2]][1].
 
-<p align="center"><img src="./54c9af226721e95539a5cd9592d635bb.gif" width=""/></p>
+<p align="center"><img src="./54c9af226721e95539a5cd9592d635bb.gif" width="50%"/></p>
 <h2>📈 Estadísticas de GitHub </h2>
 
 |||
