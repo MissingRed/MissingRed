@@ -1,7 +1,9 @@
 <h1 align="center">
   Hola! soy Daniel👋
 </h1>
+
 My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
 <p align="center"><img src="./trex.gif"/></p>
 <h2>📈 Estadísticas de GitHub </h2>
 
