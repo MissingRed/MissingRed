@@ -2,7 +2,7 @@
   Hola! soy Daniel👋
 </h1>
 
-Mi nombre es Daniel Rodriguez y soy un desarrollador / tecnólogo en sistemas. Soy de Cali, Colombia y actualmente Estudio Ingeniería de Sistemas. Puedes encontrarme en 
+Mi nombre es Daniel Rodriguez y soy un desarrollador / ingeniero en sistemas. Soy de Cali, Colombia. Puedes encontrarme en 
 [![Twitter][1.2]][1].
 
 <p align="center"><img src="./lofiBro.gif"/></p>
