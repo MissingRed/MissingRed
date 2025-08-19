@@ -22,6 +22,12 @@ Mi nombre es Daniel Rodriguez y soy un Desarrollador / ingeniero en sistemas. So
 
 <h2>🔧 Tecnologías y herramientas</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,react,mysql,mongodb,nextjs,npm,nodejs" />
+  </a>
+</p>
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
