@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola! soy Daniel👋
+  Hola! soy Daniel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 </h1>
 
 Mi nombre es Daniel Rodriguez y soy un Desarrollador / ingeniero en sistemas. Soy de Cali, Colombia. Puedes encontrarme en 
