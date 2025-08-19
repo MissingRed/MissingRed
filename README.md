@@ -2,7 +2,7 @@
   Hola! soy Daniel👋
 </h1>
 
-Mi nombre es Daniel Rodriguez y soy un desarrollador / ingeniero en sistemas. Soy de Cali, Colombia. Puedes encontrarme en 
+Mi nombre es Daniel Rodriguez y soy un Desarrollador / ingeniero en sistemas. Soy de Cali, Colombia. Puedes encontrarme en 
 [![Twitter][1.2]][1].
 
 <p align="center"><img src="./lofiBro.gif"/></p>
@@ -24,7 +24,10 @@ Mi nombre es Daniel Rodriguez y soy un desarrollador / ingeniero en sistemas. So
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Tools-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
