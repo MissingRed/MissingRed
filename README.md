@@ -5,7 +5,7 @@
 Mi nombre es Daniel Rodriguez y soy un Desarrollador / ingeniero en sistemas. Soy de Cali, Colombia. Puedes encontrarme en 
 [![Twitter][1.2]][1].
 
-<h2 align="center">🌐 Mi página personal</h2>
+<h2 align="center">🌐 Mi sitio web</h2>
 
 <p align="center">
   <a href="https://danielrf.com" target="_blank">
